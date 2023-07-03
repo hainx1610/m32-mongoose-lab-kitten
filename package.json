@@ -1,0 +1,16 @@
+{
+  "name": "m32-mongoose-lab-kitten",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mongoose.lab.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./mongoose.lab.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.3.1",
+    "nodemon": "^2.0.22"
+  }
+}
